@@ -1,0 +1,235 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="4FunDance.pl"tvg-logo="https://i.imgur.com/ZEWHe1B.png"tvg-shift=""group-title="Music",4 Fun Dance
+http://178.219.128.68:64888/4FUNDANC
+#EXTINF:-1 tvg-id="4FunKids.pl"tvg-logo="https://i.imgur.com/2JO5Y8c.png"tvg-shift=""group-title="Kids",4 Fun Kids
+http://178.219.128.68:64888/4FUNKIDS
+#EXTINF:-1 tvg-id="4FunTV.pl"tvg-logo="https://i.imgur.com/rI1wo2l.png"tvg-shift=""group-title="Undefined",4 Fun TV
+http://178.219.128.68:64888/4FUNTV
+#EXTINF:-1 tvg-id="13Ulica.pl"tvg-logo="https://i.imgur.com/0gCNnLq.png"tvg-shift=""group-title="Entertainment",13 Ulica
+http://178.219.128.68:64888/13ULICHD
+#EXTINF:-1 tvg-id="ActiveFamily.pl"tvg-logo="https://i.imgur.com/I1wdWAo.png"tvg-shift=""group-title="Family",Active Family
+http://178.219.128.68:64888/ACTIFAMIHD
+#EXTINF:-1 tvg-id="AleKinoPlus.pl"tvg-logo="https://i.imgur.com/iZMsGnC.png"tvg-shift=""group-title="Movies",Ale Kino+
+http://178.219.128.68:64889/ALEKINOHD
+#EXTINF:-1 tvg-id="AlfaTVP.pl"tvg-logo="https://i.imgur.com/WwE7fhC.png"tvg-shift=""group-title="General",Alfa TVP
+http://109.233.89.166/Alfa_TVP_HD/index.m3u8
+#EXTINF:-1 tvg-id="AMC.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"tvg-shift=""group-title="Movies",AMC
+http://178.219.128.68:64889/AMCHD
+#EXTINF:-1 tvg-id="AXN.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png"tvg-shift=""group-title="Undefined",AXN
+http://178.219.128.68:64888/AXN
+#EXTINF:-1 tvg-id="AXNBlack.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/320px-AXN_Black_logo_%282015%29.svg.png"tvg-shift=""group-title="Undefined",AXN Black
+http://185.236.229.62:9981/play/a075
+#EXTINF:-1 tvg-id="AXNWhite.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/320px-AXN_White_logo_%282015%29.svg.png"tvg-shift=""group-title="Undefined",AXN White
+http://185.236.229.62:9981/play/a074
+#EXTINF:-1 tvg-id="BBCFirst.pl"tvg-logo="https://i.imgur.com/UBoBYUI.png"tvg-shift=""group-title="Entertainment",BBC First
+http://185.236.229.62:9981/play/a02n
+#EXTINF:-1 tvg-id="CANALPlus360.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal360_1920x1080.png/320px-Canal360_1920x1080.png"tvg-shift=""group-title="Family",CANAL+ 360
+http://178.219.128.68:64889/CANAFAMIHD
+#EXTINF:-1 tvg-id="CanalPlus1.pl"tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/RPqkrlsb2dvLW1pZ3JhdGVkL2NhbmFsLTEucG5nkpUCZADCw5UCACjCww"tvg-shift=""group-title="Entertainment",Canal+ »1
+http://185.236.229.62:9981/play/a05s
+#EXTINF:-1 tvg-id="CanalPlusDokument.pl"tvg-logo="https://i.imgur.com/La6WF7D.png"tvg-shift=""group-title="Documentary",Canal+ Dokument
+http://178.219.128.68:64889/CANADOKUHD
+#EXTINF:-1 tvg-id="CanalPlusDomo.pl"tvg-logo="https://i.imgur.com/Iz2BxbR.png"tvg-shift=""group-title="Undefined",Canal+ Domo
+http://178.219.128.68:64889/DOMOHD
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl"tvg-logo="https://i.imgur.com/2yMtcJw.png"tvg-shift=""group-title="Movies",Canal+ Film
+http://178.219.128.68:64889/CANAFILMHD
+#EXTINF:-1 tvg-id="CanalPlusKuchnia.pl"tvg-logo="https://i.imgur.com/d1JTJBl.png"tvg-shift=""group-title="Cooking",Canal+ Kuchnia
+http://178.219.128.68:64889/KUCHHD
+#EXTINF:-1 tvg-id="CanalPlusPremium.pl"tvg-logo="https://i.imgur.com/J8qzBV1.png"tvg-shift=""group-title="Undefined",Canal+ Premium
+http://178.219.128.68:64889/CANAHD
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl"tvg-logo="https://i.imgur.com/B55Rl3T.png"tvg-shift=""group-title="Series",Canal+ Seriale
+http://178.219.128.68:64888/CANASERIHD
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl"tvg-logo="https://i.imgur.com/Aq2hnUj.png"tvg-shift=""group-title="Sports",Canal+ Sport 2
+http://178.219.128.68:64888/CANASPOR2HD
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl"tvg-logo="https://i.imgur.com/QZwPFa8.png"tvg-shift=""group-title="Sports",Canal+ Sport 3
+http://185.236.229.62:9981/play/a05e
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl"tvg-logo="https://i.imgur.com/BNAPYAx.png"tvg-shift=""group-title="Sports",Canal+ Sport 4
+http://185.236.229.62:9981/play/a05f
+#EXTINF:-1 tvg-id="CanalPlusSport.pl"tvg-logo="https://i.imgur.com/E0WTMa2.png"tvg-shift=""group-title="Sports",Canal+ Sport
+http://178.219.128.68:64888/CANASPORHD
+#EXTINF:-1 tvg-id="CartoonNetwork.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"tvg-shift=""group-title="Animation;Kids",Cartoon Network
+http://178.219.128.68:64888/CARTNETWHD
+#EXTINF:-1 tvg-id="CBeebies.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png"tvg-shift=""group-title="Kids",CBeebies
+http://185.236.229.62:9981/play/a06s
+#EXTINF:-1 tvg-id="CBSReality.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CBS_Reality.png/512px-CBS_Reality.png"tvg-shift=""group-title="Entertainment",CBS Reality
+http://185.236.229.62:9981/play/a02v
+#EXTINF:-1 tvg-id="Cinemax2.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png"tvg-shift=""group-title="Undefined",Cinemax 2
+http://185.236.229.62:9981/play/a07r
+#EXTINF:-1 tvg-id="Cinemax.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/320px-Cinemax_2016.svg.png"tvg-shift=""group-title="Undefined",Cinemax
+http://185.236.229.62:9981/play/a05p
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl"tvg-logo="https://i.imgur.com/ZZbuTv7.png"tvg-shift=""group-title="Music",Disco Polo Music
+http://185.236.229.62:9981/play/a078
+#EXTINF:-1 tvg-id="DiscoveryLifeHD.pl"tvg-logo="https://i.imgur.com/aMCoSWI.png"tvg-shift=""group-title="Lifestyle",Discovery Life HD
+http://178.219.128.68:64888/DISCLIFEHD
+#EXTINF:-1 tvg-id="DisneyChannel.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png"tvg-shift=""group-title="Kids",Disney Channel
+http://109.233.89.170/Disney_Channel/mono.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png"tvg-shift=""group-title="Kids",Disney Junior
+http://178.219.128.68:64888/DISNJUNI
+#EXTINF:-1 tvg-id="DisneyXD.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png"tvg-shift=""group-title="Kids",Disney XD
+http://178.219.128.68:64888/DISNXD
+#EXTINF:-1 tvg-id="EskaRockTV.pl"tvg-logo="https://i.imgur.com/o0Fg19Q.png"tvg-shift=""group-title="Music",Eska Rock TV
+http://178.219.128.68:64889/ESKAROCKTV
+#EXTINF:-1 tvg-id="EskaTV.pl"tvg-logo="https://i.imgur.com/N0eH0Cg.png"tvg-shift=""group-title="Music",Eska TV
+http://178.219.128.68:64888/ESKATVHD
+#EXTINF:-1 tvg-id="EskaTVExtra.pl"tvg-logo="https://i.imgur.com/pZAFshQ.png"tvg-shift=""group-title="Music",Eska TV Extra
+http://178.219.128.68:64888/ESKATVEXTRHD
+#EXTINF:-1 tvg-id="FilmBoxExtra.pl"tvg-logo="https://i.imgur.com/ML7SlIW.png"tvg-shift=""group-title="Movies",FilmBox Extra
+http://178.219.128.68:64888/FILMEXTRHD
+#EXTINF:-1 tvg-id="FilmBoxPremiumHD.pl"tvg-logo="https://i.imgur.com/5UniM2d.png"tvg-shift=""group-title="Movies",FilmBox Premium HD
+http://178.219.128.68:64888/FILMPREMHD
+#EXTINF:-1 tvg-id="FokusTV.pl"tvg-logo="https://i.imgur.com/emWWd5k.png"tvg-shift=""group-title="General",Fokus TV
+http://178.219.128.68:64889/FOKUTV
+#EXTINF:-1 tvg-id="HBO2.pl"tvg-logo="https://i.imgur.com/2e3muOJ.png"tvg-shift=""group-title="Movies;Series",HBO 2
+http://178.219.128.68:64888/HBO2HD
+#EXTINF:-1 tvg-id="HBO3HD.pl"tvg-logo="https://i.imgur.com/3QIHh2V.png"tvg-shift=""group-title="Undefined",HBO 3 HD
+http://178.219.128.68:64888/HBO3HD
+#EXTINF:-1 tvg-id="HBO.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"tvg-shift=""group-title="Movies;Series",HBO
+http://178.219.128.68:64888/HBOHD
+#EXTINF:-1 tvg-id="HomeTV.pl"tvg-logo="https://i.imgur.com/qAFR1Cr.png"tvg-shift=""group-title="Undefined",Home TV
+http://178.219.128.68:64889/HOMETV
+#EXTINF:-1 tvg-id="KinoPolska.pl"tvg-logo="https://i.imgur.com/lbl8K23.png"tvg-shift=""group-title="Movies",Kino Polska
+http://178.219.128.68:64888/KINOPOLSHD
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl"tvg-logo="https://i.imgur.com/lE1IlPQ.png"tvg-shift=""group-title="Music",Kino Polska Muzyka
+http://185.236.229.62:9981/play/a030
+#EXTINF:-1 tvg-id="KinoTV.pl"tvg-logo="https://i.imgur.com/sqjuXUO.png"tvg-shift=""group-title="Movies",Kino TV
+http://178.219.128.68:64888/KINOTV
+#EXTINF:-1 tvg-id="Metro.pl"tvg-logo="https://i.imgur.com/DeMPuXH.png"tvg-shift=""group-title="Entertainment",Metro
+http://178.219.128.68:64889/METRHD
+#EXTINF:-1 tvg-id="MiniMiniPlus.pl"tvg-logo="https://i.imgur.com/1AdUC53.png"tvg-shift=""group-title="Kids",MiniMini+
+http://178.219.128.68:64889/MINIHD
+#EXTINF:-1 tvg-id="Motowizja.pl"tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/bqxkrtsb2dvLW1pZ3JhdGVkL21vdG93aXpqYS5wbmeSlQJkAMLDlQIAKMLD"tvg-shift=""group-title="Auto",Motowizja
+http://185.236.229.62:9981/play/a02r
+#EXTINF:-1 tvg-id="MTV.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png"tvg-shift=""group-title="Entertainment",MTV
+http://178.219.128.68:64888/MTVHD
+#EXTINF:-1 tvg-id="NatGeoPeople.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/512px-New_NatGeo_People_logo.svg.png"tvg-shift=""group-title="Culture",Nat Geo People
+http://185.236.229.62:9981/play/a06f
+#EXTINF:-1 tvg-id="NationalGeographicWild.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"tvg-shift=""group-title="Documentary",National Geographic Wild
+http://185.236.229.62:9981/play/a05z
+#EXTINF:-1 tvg-id="NickJr.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"tvg-shift=""group-title="Kids",Nick Jr.
+http://178.219.128.68:64888/NICKJR
+#EXTINF:-1 tvg-id="Nickelodeon.pl"tvg-logo="https://i.imgur.com/E84jnP8.png"tvg-shift=""group-title="Kids",Nickelodeon
+http://178.219.128.68:64889/NICK
+#EXTINF:-1 tvg-id="NowaTV.pl"tvg-logo="https://i.imgur.com/8cHK49r.png"tvg-shift=""group-title="General",Nowa TV
+http://178.219.128.68:64889/NOWATVHD
+#EXTINF:-1 tvg-id="NSportPlus.pl"tvg-logo="https://i.imgur.com/Kpx4GUi.png"tvg-shift=""group-title="Sports",NSport+
+http://185.236.229.62:9981/play/a05h
+#EXTINF:-1 tvg-id="NutaTV.pl"tvg-logo="https://i.imgur.com/JHFUxDu.png"tvg-shift=""group-title="Music",Nuta TV
+http://178.219.128.68:64888/NUTA
+#EXTINF:-1 tvg-id="ParamountNetwork.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"tvg-shift=""group-title="Movies;Series",Paramount Network
+http://185.236.229.62:9981/play/a069
+#EXTINF:-1 tvg-id="PlanetePlus.pl"tvg-logo="https://i.imgur.com/mraCTwN.png"tvg-shift=""group-title="Undefined",Planete+
+http://178.219.128.68:64889/PLANHD
+#EXTINF:-1 tvg-id="PoloTV.pl"tvg-logo="https://i.imgur.com/GEJZjRB.png"tvg-shift=""group-title="Undefined",Polo TV
+http://178.219.128.68:64888/POLOTV
+#EXTINF:-1 tvg-id="Polonia1.pl"tvg-logo="https://i.imgur.com/4TVDMGD.png"tvg-shift=""group-title="Undefined",Polonia 1
+http://178.219.128.68:64889/POLO1
+#EXTINF:-1 tvg-id="Polsat2.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png"tvg-shift=""group-title="Undefined",Polsat 2
+http://178.219.128.68:64888/POLS2HD
+#EXTINF:-1 tvg-id="Polsat.pl"tvg-logo="https://i.imgur.com/xff6zGN.png"tvg-shift=""group-title="Undefined",Polsat
+http://178.219.128.68:64889/POLSHD
+#EXTINF:-1 tvg-id="PolsatCafe.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/512px-Polsat_Caf%C3%A9_2021_gradient.svg.png"tvg-shift=""group-title="Undefined",Polsat Cafe
+http://178.219.128.68:64889/POLSCAFEHD
+#EXTINF:-1 tvg-id="PolsatDoku.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/512px-Polsat_Doku_2021_gradient.svg.png"tvg-shift=""group-title="Undefined",Polsat Doku
+http://178.219.128.68:64888/POLSDOKUHD
+#EXTINF:-1 tvg-id="PolsatFilm.pl"tvg-logo="https://i.imgur.com/wGH6shZ.png"tvg-shift=""group-title="Movies",Polsat Film
+http://178.219.128.68:64889/POLSFILMHD
+#EXTINF:-1 tvg-id="PolsatGames.pl"tvg-logo="https://i.imgur.com/OSCrBvh.png"tvg-shift=""group-title="Undefined",Polsat Games
+http://185.236.229.62:9981/play/a025
+#EXTINF:-1 tvg-id="PolsatJimJam.pl"tvg-logo="https://i.imgur.com/GjppUlg.png"tvg-shift=""group-title="Kids",Polsat JimJam
+http://185.236.229.62:9981/play/a07e
+#EXTINF:-1 tvg-id="PolsatMusic.pl"tvg-logo="https://i.imgur.com/uXygf1l.png"tvg-shift=""group-title="Music",Polsat Music
+http://185.236.229.62:9981/play/a02b
+#EXTINF:-1 tvg-id="PolsatNews2.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/512px-Polsat_News_2_2021_gradient.svg.png"tvg-shift=""group-title="News",Polsat News 2
+http://178.219.128.68:64889/POLSNEWS2
+#EXTINF:-1 tvg-id="PolsatNews.pl"tvg-logo="https://i.imgur.com/sx1yPuc.png"tvg-shift=""group-title="News",Polsat News
+http://178.219.128.68:64888/POLSNEWSHD
+#EXTINF:-1 tvg-id="PolsatNewsPolityka.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png"tvg-shift=""group-title="Undefined",Polsat News Polityka
+http://178.219.128.68:64888/SUPEHD
+#EXTINF:-1 tvg-id="PolsatPlay.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/512px-Polsat_Play_2021_gradient.svg.png"tvg-shift=""group-title="Undefined",Polsat Play
+http://178.219.128.68:64888/POLSPLAYHD
+#EXTINF:-1 tvg-id="PolsatRodzina.pl"tvg-logo="https://i.imgur.com/IS0AW48.png"tvg-shift=""group-title="Undefined",Polsat Rodzina
+http://178.219.128.68:64889/POLSRODZHD
+#EXTINF:-1 tvg-id="PolsatSeriale.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/512px-Polsat_Seriale_2021_gradient.svg.png"tvg-shift=""group-title="Series",Polsat Seriale
+http://178.219.128.68:64888/POLSROMA
+#EXTINF:-1 tvg-id="PolsatSport.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png"tvg-shift=""group-title="Sports",Polsat Sport
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png"tvg-shift=""group-title="Sports",Polsat Sport Extra
+http://178.219.128.68:64889/POLSSPOREXTRHD
+#EXTINF:-1 tvg-id="PolsatSportFight.pl"tvg-logo="https://i.imgur.com/8x1FV3o.png"tvg-shift=""group-title="Sports",Polsat Sport Fight
+http://178.219.128.68:64888/POLSSPORFIGHHD
+#EXTINF:-1 tvg-id="PolsatSportNews.pl"tvg-logo="https://i.imgur.com/InChYmt.png"tvg-shift=""group-title="News",Polsat Sport News
+http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1 tvg-id="PolsatViasatExplore.pl"tvg-logo="https://i.imgur.com/gDlqO9h.png"tvg-shift=""group-title="Documentary",Polsat Viasat Explore
+http://178.219.128.68:64888/POLSVIASEXPLHD
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl"tvg-logo="https://i.imgur.com/X16UGUf.png"tvg-shift=""group-title="Documentary",Polsat Viasat History
+http://178.219.128.68:64888/POLSVIASHISTHD
+#EXTINF:-1 tvg-id="PolsatViasatNature.pl"tvg-logo="https://i.imgur.com/TUcM0oS.png"tvg-shift=""group-title="Documentary",Polsat Viasat Nature
+http://178.219.128.68:64888/POLSVIASNATUHD
+#EXTINF:-1 tvg-id="Puls2.pl"tvg-logo="https://i.imgur.com/EOnzPiZ.png"tvg-shift=""group-title="Undefined",Puls 2
+http://178.219.128.68:64889/PULS2HD
+#EXTINF:-1 tvg-id="RedCarpetTV.pl"tvg-logo="https://i.imgur.com/Vh1auIa.png"tvg-shift=""group-title="Undefined",Red Carpet TV
+http://185.236.229.62:9981/play/a02q
+#EXTINF:-1 tvg-id="RomanceTV.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/512px-Romance_TV_Logo_10.2019.svg.png"tvg-shift=""group-title="Undefined",Romance TV
+http://109.233.89.166/Romance_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="StarsTV.pl"tvg-logo="https://i.imgur.com/NdITPCk.png"tvg-shift=""group-title="Undefined",Stars TV
+http://178.219.128.68:64888/STARTVHD
+#EXTINF:-1 tvg-id="StopklatkaTV.pl"tvg-logo="https://i.imgur.com/qqNsIkx.png"tvg-shift=""group-title="Undefined",Stopklatka TV
+http://178.219.128.68:64889/STOPTV
+#EXTINF:-1 tvg-id="SundanceTV.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png"tvg-shift=""group-title="Movies",Sundance TV
+http://185.236.229.62:9981/play/a03i
+#EXTINF:-1 tvg-id="SuperPolsat.pl"tvg-logo="https://i.imgur.com/6KXJRHc.png"tvg-shift=""group-title="Undefined",Super Polsat
+http://178.219.128.68:64889/SUPEPOLSHD
+#EXTINF:-1 tvg-id="Superstacja.pl"tvg-logo="https://i.imgur.com/uYpUnHP.png"tvg-shift=""group-title="Undefined",Superstacja
+http://109.233.89.166/Wydarzenia_24_HD/index.m3u8
+#EXTINF:-1 tvg-id="Tele5.pl"tvg-logo="https://i.imgur.com/36ZNsIL.png"tvg-shift=""group-title="Undefined",Tele5
+http://178.219.128.68:64888/TELE5HD
+#EXTINF:-1 tvg-id="TeletoonPlus.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/512px-T%C3%A9l%C3%A9toon%2B_Logo.png"tvg-shift=""group-title="Animation;Kids",Teletoon+ (Poland)
+http://178.219.128.68:64889/TELEHD
+#EXTINF:-1 tvg-id="TV4.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png"tvg-shift=""group-title="Undefined",TV4
+http://178.219.128.68:64889/TV4HD
+#EXTINF:-1 tvg-id="TV6.pl"tvg-logo="https://i.imgur.com/sW2PQ9z.png"tvg-shift=""group-title="Undefined",TV6
+http://178.219.128.68:64889/TV6HD
+#EXTINF:-1 tvg-id="TVPuls.pl"tvg-logo="https://i.imgur.com/gXA7pai.png"tvg-shift=""group-title="Undefined",TV Puls
+http://178.219.128.68:64889/TVPULSHD
+#EXTINF:-1 tvg-id="TVRepublika.pl"tvg-logo="https://i.imgur.com/ljpK6dZ.png"tvg-shift=""group-title="Undefined",TV Republika
+http://178.219.128.68:64888/TVREPU
+#EXTINF:-1 tvg-id="TVTrwam.pl"tvg-logo="https://i.imgur.com/yq10wS5.png"tvg-shift="3 hours"group-title="Undefined",TV Trwam [Geo-blocked]
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:-1 tvg-id="TVP2.pl"tvg-logo="https://i.imgur.com/XxCc32B.png"tvg-shift=""group-title="Undefined",TVP2
+https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Rzeszow.pl"tvg-logo="https://i.imgur.com/6jGX6Xy.jpg"tvg-shift=""group-title="Undefined",TVP 3 Rzeszów
+https://cdndai.pl/tvp3rzeszowsd/index.m3u8
+#EXTINF:-1 tvg-id="TVPABC2.pl"tvg-logo="https://i.imgur.com/Ur7CUAh.png"tvg-shift=""group-title="Kids",TVP ABC 2
+https://irylek.ct8.pl/stream/tvpabc2
+#EXTINF:-1 tvg-id="TVPABC.pl"tvg-logo="https://i.imgur.com/wP2mpfM.png"tvg-shift=""group-title="Kids",TVP ABC
+http://178.219.128.68:64888/TVPABC
+#EXTINF:-1 tvg-id="TVPDokument.pl"tvg-logo="https://i.imgur.com/oQUNtzs.png"tvg-shift=""group-title="Undefined",TVP Dokument
+http://178.219.128.68:64889/TVPDOKUHD
+#EXTINF:-1 tvg-id="TVPHD.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/512px-TVP_HD_logo.svg.png"tvg-shift=""group-title="Undefined",TVP HD
+http://185.236.229.62:9981/play/a02i
+#EXTINF:-1 tvg-id="TVPHistoria.pl"tvg-logo="https://i.imgur.com/Bc4QZiy.png"tvg-shift=""group-title="Undefined",TVP Historia
+http://178.219.128.68:64889/TVPHIST
+#EXTINF:-1 tvg-id="TVPInfo.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png"tvg-shift=""group-title="Undefined",TVP Info
+http://178.219.128.68:64889/TVPINFOHD
+#EXTINF:-1 tvg-id="TVPKobieta.pl"tvg-logo="https://i.imgur.com/aAH98qO.png"tvg-shift=""group-title="Undefined",TVP Kobieta
+http://178.219.128.68:64889/TVPKOBIHD
+#EXTINF:-1 tvg-id="TVPKultura.pl"tvg-logo="https://i.imgur.com/JU858Es.png"tvg-shift=""group-title="Undefined",TVP Kultura
+http://178.219.128.68:64889/TVPKULT
+#EXTINF:-1 tvg-id="TVPNauka.pl"tvg-logo="https://i.imgur.com/ga5Z8jf.png"tvg-shift=""group-title="Undefined",TVP Nauka
+http://109.233.89.166/TVP_Nauka/index.m3u8
+#EXTINF:-1 tvg-id="TVPPolonia.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png"tvg-shift=""group-title="Undefined",TVP Polonia
+http://178.219.128.68:64889/TVPPOLOHD
+#EXTINF:-1 tvg-id="TVPRozrywka.pl"tvg-logo="https://i.imgur.com/05Vx5px.png"tvg-shift=""group-title="Undefined",TVP Rozrywka
+http://178.219.128.68:64889/TVPROZR
+#EXTINF:-1 tvg-id="TVPSeriale.pl"tvg-logo="https://i.imgur.com/MuRtvXk.png"tvg-shift=""group-title="Series",TVP Seriale
+http://178.219.128.68:64889/TVPSERI
+#EXTINF:-1 tvg-id="TVS.pl"tvg-logo="https://i.imgur.com/RHwlp35.png"tvg-shift=""group-title="Undefined",TVS
+http://178.219.128.68:64888/TVS
+#EXTINF:-1 tvg-id="TVT.pl"tvg-logo="https://i.imgur.com/oZyeUzG.png"tvg-shift=""group-title="Undefined",TVT
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:-1 tvg-id="VOXMusicTV.pl"tvg-logo="https://i.imgur.com/N993msF.png"tvg-shift=""group-title="Music",VOX Music TV
+http://109.233.89.166/VOX/index.m3u8
+#EXTINF:-1 tvg-id="WPolscePL.pl"tvg-logo="https://i.imgur.com/HQ8UyhL.png"tvg-shift=""group-title="Undefined",W Polsce PL
+http://185.236.229.62:9981/play/a022
+#EXTINF:-1 tvg-id="ZoomTV.pl"tvg-logo="https://i.imgur.com/UtZM4zm.png"tvg-shift=""group-title="Undefined",Zoom TV
+http://178.219.128.68:64889/ZOOMTVHD
